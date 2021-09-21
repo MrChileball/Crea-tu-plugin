@@ -5,7 +5,7 @@ Muy buenas, esta guia está hecha con el proposito principal de anotar todo lo q
 
 ## NOTA
 
-si tienes conocimientos sobre plugins o programación y te da asco esta guia te doy 2 opciones para contruir, aportando activamente a la guia o simplemente reirte forzadamente por lo poco que sé sobre programación
+si tienes conocimientos sobre plugins o programación y te da asco esta guia te doy 2 opciones para hacer, aportar activamente a la guia o simplemente reirte forzadamente por lo poco que sé sobre programación
 
 
 
