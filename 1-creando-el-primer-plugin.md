@@ -37,4 +37,4 @@ Automaticamente se te abrirá el archivo, para importar las librerias de spigot 
 	
 	}
 	
-	
+el public void onEnable es lo más cercano al void setup o void start que se usa en arduino y unity respectivamente, acá puedes registras todos los eventos que se hacen una vez encienda el plugin, mientras que en onDisable es lo contrario, acá ejecuta todo el codigo respectivo cuando el servidor se está apagando, por ejemplo es una buena idea guarda la configuración o respectiva si tu plugin tiene archivos de config cuando se apague el servidor y cada cierto tiempo
