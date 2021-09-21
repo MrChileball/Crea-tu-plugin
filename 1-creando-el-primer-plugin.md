@@ -24,7 +24,7 @@ una vez creado tu area de trabajo con las dependencias respectivas y todo instal
 
 Automaticamente se te abrirá el archivo, para importar las librerias de spigot a este archivo tendras que añadir el sufijo **extends JavaPlugin** después de el public class Main, quedará algo así
 
-`
+{
 
 public class Main extends JavaPlugin{
 	
@@ -40,5 +40,5 @@ public class Main extends JavaPlugin{
 	
 }
 
-`
+}
 
